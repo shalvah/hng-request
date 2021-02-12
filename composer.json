@@ -21,6 +21,6 @@
     "require": {
         "php": ">=5.5.9",
         "guzzlehttp/guzzle": "~6.0",
-        "nesbot/Carbon": "^1.22"
+        "nesbot/carbon": "^1.22"
     }
 }
